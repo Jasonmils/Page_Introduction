@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Wenqi Cui</title>
+    <link>https://wenqi-cui.github.io/publication/</link>
+      <atom:link href="https://wenqi-cui.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 08:30:41 +0000</lastBuildDate>
+    <image>
+      <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://wenqi-cui.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Structured Neural-PI Control for Networked Systems: Stability and Steady-State Optimality Guarantees</title>
+      <link>https://wenqi-cui.github.io/publication/neural-pi/index-1/</link>
+      <pubDate>Thu, 01 Jun 2023 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/neural-pi/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Reinforcement Learning Through Trajectory Generation</title>
+      <link>https://wenqi-cui.github.io/publication/trajgen-linear/index-1/</link>
+      <pubDate>Mon, 01 May 2023 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/trajgen-linear/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Optimal Frequency Control: A Lyapunov Approach</title>
+      <link>https://wenqi-cui.github.io/publication/example/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equilibrium-Independent Stability Analysis for Distribution Systems with Lossy Transmission Lines</title>
+      <link>https://wenqi-cui.github.io/publication/lossy-lcss/index-1/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/lossy-lcss/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable Reinforcement Learning for Optimal Frequency Control: A Distributed Averaging-Based Integral Approach</title>
+      <link>https://wenqi-cui.github.io/publication/secondary-frequency/index-1/</link>
+      <pubDate>Sun, 01 May 2022 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/secondary-frequency/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Power System Dynamics and Transients: A Frequency Domain Approach</title>
+      <link>https://wenqi-cui.github.io/publication/fourier-transient/index-1/</link>
+      <pubDate>Mon, 01 Nov 2021 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/fourier-transient/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Safe Reinforcement Learning for Voltage Control</title>
+      <link>https://wenqi-cui.github.io/publication/safe-rl-voltage-pscc/index-1/</link>
+      <pubDate>Sun, 03 Oct 2021 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/safe-rl-voltage-pscc/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of Market Power Assessment and Mitigation In the Reshaping of Power Systems: State-of-Art Status and Potential Research Studies</title>
+      <link>https://wenqi-cui.github.io/publication/market-power/</link>
+      <pubDate>Sun, 25 Jul 2021 05:10:27 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/market-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Graphical User Interface for Few-Shot Machine Learning Classification of Electron Microscopy Data</title>
+      <link>https://wenqi-cui.github.io/publication/few-shot/index-1/</link>
+      <pubDate>Wed, 21 Jul 2021 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/few-shot/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyapunov-Regularized Reinforcement Learning for Power System Transient   Stability</title>
+      <link>https://wenqi-cui.github.io/publication/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/index-1/</link>
+      <pubDate>Fri, 05 Mar 2021 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-state operating reserve model of aggregate thermostatically-controlled-loads for power system short-term reliability evaluation</title>
+      <link>https://wenqi-cui.github.io/publication/multi-state-operating-reserve-model-of-aggregate-thermostatically-controlled-loads-for-power-system-short-term-reliability-evaluation/</link>
+      <pubDate>Thu, 02 May 2019 05:28:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/multi-state-operating-reserve-model-of-aggregate-thermostatically-controlled-loads-for-power-system-short-term-reliability-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation and sequential dispatch of operating reserve provided by air conditioners considering lead–lag rebound effect</title>
+      <link>https://wenqi-cui.github.io/publication/evaluation-and-sequential-dispatch-of-operating-reserve-provided-by-air-conditioners-considering-leadlag-rebound-effect/</link>
+      <pubDate>Tue, 06 Nov 2018 05:10:27 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/evaluation-and-sequential-dispatch-of-operating-reserve-provided-by-air-conditioners-considering-leadlag-rebound-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of capacity incentive and energy compensation for demand response programs</title>
+      <link>https://wenqi-cui.github.io/publication/design-of-capacity-incentive-and-energy-compensation-for-demand-response-programs/</link>
+      <pubDate>Fri, 02 Feb 2018 06:34:22 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/design-of-capacity-incentive-and-energy-compensation-for-demand-response-programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-stage payback model for the assessment of curtailment services provided by air conditioners</title>
+      <link>https://wenqi-cui.github.io/publication/two-stage-payback-model-for-the-assessment-of-curtailment-services-provided-by-air-conditioners/</link>
+      <pubDate>Sat, 02 Dec 2017 06:32:34 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/two-stage-payback-model-for-the-assessment-of-curtailment-services-provided-by-air-conditioners/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
